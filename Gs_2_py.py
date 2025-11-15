@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 # =============================================================
 # NEOWORK LIGHT - Sistema Simplificado de Conexão Profissional
-# Autor: (adicione seu nome e RM)
 # Tema: O Futuro do Trabalho – Conectando pessoas e empresas
 # =============================================================
 
