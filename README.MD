@@ -3,6 +3,7 @@
 👤 Integrantes
 
 Francisco Nogueira de Queiroz - RM: 566309
+
 Rhariel - RM: 566310
 
 📹 Vídeo de Apresentação: https://youtu.be/2-1ygJElgPQ
@@ -107,4 +108,5 @@ Simulação de um sistema real de RH
 Construção de menus interativos via terminal
 
 Lógica aplicada ao futuro do trabalho e automação de seleção profissional
+
 
