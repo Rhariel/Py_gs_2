@@ -1,6 +1,7 @@
 🚀 NEOWORK LIGHT – Sistema Simplificado de Conexão Profissional (Python)
 
-👤 Integrante
+👤 Integrantes
+
 Francisco Nogueira de Queiroz - RM: 566309
 Rhariel - RM: 566310
 
@@ -17,6 +18,7 @@ O propósito central do Neowork Light é apresentar uma visão funcional e simpl
 Além disso, o projeto demonstra conceitos essenciais para o entendimento de tecnologias aplicadas ao RH moderno, como automação de triagem, padronização de critérios e integração de informações, servindo como uma base educacional para compreender a evolução dos sistemas de recrutamento em um cenário cada vez mais digital.
 
 ⚙️ Principais Funcionalidades
+
 👤 Cadastro de Usuários
 
 Nome completo, idade, área, competências e propósito profissional.
@@ -105,3 +107,4 @@ Simulação de um sistema real de RH
 Construção de menus interativos via terminal
 
 Lógica aplicada ao futuro do trabalho e automação de seleção profissional
+
